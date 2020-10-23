@@ -6,7 +6,7 @@ function iterativeLog(array) {
   })
 }
 
-function iteratie(callback) {
+function iterate(callback) {
   var array = ["Exodus"]
   array.forEach(callback)
   return array

@@ -7,7 +7,7 @@ function iterativeLog(array) {
 }
 
 function iterate(callback) {
-  var array = ["Exodus"]
+  const array = ["Exodus"]
   array.forEach(callback)
   return array
 }
